@@ -1,0 +1,11 @@
+name: magic
+version: 0.1.0
+
+authors:
+  - Ali Naqvi <syed.alinaqvi@gmail.com>
+description: |
+  Crystal bindings to libmagic
+
+crystal: 1.0.0
+
+license: MIT
